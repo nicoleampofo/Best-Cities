@@ -1,0 +1,118 @@
+
+ .background {
+    background:url(Travel.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    }
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+p {
+  width: 800px;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  padding-left: 235px;
+  padding-bottom: 100px;
+}
+
+.Toronto {
+    background-color: darkmagenta;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    border-radius: 15px;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-left: 305px;
+    width: 330px;
+    height: 180px;
+    display: inline-block;
+    margin-right:30px;
+    margin-bottom: 60px;
+    text-align: center;
+    }
+
+.London {
+    background-color: darkmagenta;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    border-radius: 15px;
+    font-family: Tahoma, Geneva, sans-serif;
+    border: none;
+    margin-left: 305px;
+    width: 330px;
+    height: 180px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 60px;
+    text-align: center;
+    }
+
+.Paris {
+    background-color: darkmagenta;
+    text-decoration:none;
+    color: black;
+    font-size: 40px;
+    border-radius: 15px;
+    font-family: Tahoma, Geneva, sans-serif;
+    border: none;
+    width: 330px;
+    height: 180px;
+    display: inline-block;
+    text-align: center;
+    }
+
+.Boston {
+    background-color: darkmagenta;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    border-radius: 15px;
+    font-family: Tahoma, Geneva, sans-serif;
+    border: none;
+    width: 330px;
+    height: 180px;
+    display: inline-block;
+    text-align: center;    
+    }
+
+.Toronto:hover {
+  background-image:url("Toronto.jpg");
+  color: white;
+  background-size: contain;
+  text-decoration: none;
+}
+
+.Paris:hover {
+  background-image:url("Paris.jpg");
+  color: white;
+  background-size: contain;
+}
+
+.London:hover {
+  background-image:url("London.jpg");
+  background-size: contain;
+}
+    
+.Boston:hover {
+  background-image:url("Boston.jpg");
+  color: white;
+  background-size: contain;
+}
+
+.TorontoNav {
+  text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    margin: 10px 600px;
+}
